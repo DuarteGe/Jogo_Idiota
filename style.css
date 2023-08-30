@@ -1,0 +1,15 @@
+  body{
+    background-color: black;
+    text-align: center;
+  }
+  #texto{
+    color:white;
+    text-align: center;
+  }
+  div.di{
+    margin: auto;
+    color: red;
+    display: inline-block;
+    width: 23%;
+    height: 100px;
+  }
